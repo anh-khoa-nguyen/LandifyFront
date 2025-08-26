@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "118117704286",
+    "project_id": "landify-18ff9",
+    "storage_bucket": "landify-18ff9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118117704286:android:1fad111b5b1fe15da94acf",
+        "android_client_info": {
+          "package_name": "com.khoa.landify.landifymobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118117704286-djb1rt5io6gtues7lfsnfrh5gvhld030.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khoa.landify.landifymobile",
+            "certificate_hash": "aec10cf11a82a42f69d6abad5fa1d41406a464ce"
+          }
+        },
+        {
+          "client_id": "118117704286-5gtm881m38e75a1mbnugsigan94oh7bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApN-ZgcaTiVyvRDg7BvyQTeafOGHQXzho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118117704286-5gtm881m38e75a1mbnugsigan94oh7bj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118117704286-ussmkei8ms18unf02cv0qvgos2bnqu3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.khoa.landify.landifymobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
